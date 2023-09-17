@@ -1,0 +1,1 @@
+const add = (number) => number+1;
